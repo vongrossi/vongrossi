@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [oh there are lots but doesn't very impressive](future link.here)
 
-- 🌱 I’m currently learning **cybersec, red-team, bug-bounty generative ai**
+- 🌱 I’m currently learning **cybersec, red-team, bug-bounty, generative ai, prompting engineering**
 
 - 👨‍💻 All of my projects are available at [github.com/vongrossi](github.com/vongrossi)
 
