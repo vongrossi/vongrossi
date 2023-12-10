@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Angelo Grossi</h1>
-<h3 align="center">A passionate DevOps/CyberSec/System Enginner from São Paulo - Brazil</h3>
+<h3 align="center">A passionate DevOps/CyberSec/System Engineer from São Paulo - Brazil</h3>
 
-- 🔭 I’m currently working on [oh there are lots but doesn't very impressive](futurelink.here)
+- 🔭 I’m currently working on [oh there are lots but doesn't very impressive](future link.here)
 
-- 🌱 I’m currently learning **cybersec, redteam, bugbounty generative ai**
+- 🌱 I’m currently learning **cybersec, red-team, bug-bounty generative ai**
 
 - 👨‍💻 All of my projects are available at [github.com/vongrossi](github.com/vongrossi)
 
-- 💬 Ask me about **devops, site reliabity engineering, imutable infrastructure**
+- 💬 Ask me about **DevOps, site reliability engineering, immutable infrastructure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
