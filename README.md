@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [github.com/vongrossi](github.com/vongrossi)
 
-- 💬 Ask me about **DevOps, site reliability engineering, immutable infrastructure**
+- 💬 Ask me about **DevOps, site reliability engineering, immutable infrastructure, docker, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
