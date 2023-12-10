@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Angelo Grossi</h1>
 <h3 align="center">A passionate DevOps/CyberSec/System Engineer from São Paulo - Brazil</h3>
 
-- 🔭 I’m currently working on [oh there are lots but doesn't very impressive](future link.here)
+- 🔭 I’m currently working on [oh there are lots but they aren't very impressive](future link.here)
 
-- 🌱 I’m currently learning **cybersec, red-team, bug-bounty, generative ai, prompting engineering**
+- 🌱 I’m currently learning **cybersec, red-team, bug-bounty, generative ai, prompt engineering**
 
 - 👨‍💻 All of my projects are available at [github.com/vongrossi](github.com/vongrossi)
 
